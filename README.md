@@ -1,1 +1,1 @@
-# TradeSmart
+# TradeSmart: Stock market trends and predictions
