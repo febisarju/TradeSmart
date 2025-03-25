@@ -43,7 +43,7 @@ The dataset contains historical stock price data, including:
 4️. Machine Learning Models
 - Random Forest Regressor 
 - Linear Regression 
-- Decision Tree Regressor 
+- Decision Tree Regressor               
 Each model is evaluated using: Mean Squared Error (MSE) and R² Score.
 
 5️. Hyperparameter Tuning & Cross-Validation
