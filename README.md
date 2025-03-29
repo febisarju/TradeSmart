@@ -4,7 +4,7 @@ This is a stock market analysis and prediction project that leverages historical
 **[Analysis Overview (html file)](https://febisarju.github.io/TradeSmart)**
                          
 ## Features:
-  
+   
 - Identify trends and patterns in stock prices.
 - Compute moving averages (10_MA, 20_MA) and stock volatility.
 - Conduct correlation analysis to examine relationships between stocks.
