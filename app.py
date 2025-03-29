@@ -5,9 +5,9 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
 # Load trained model, scaler and label encoder
-model = joblib.load("model_files/random_forest_model.pkl")
-scaler = joblib.load("model_files/scaler.pkl")
-label_encoder = joblib.load("model_files/label_encoder.pkl") 
+model = joblib.load("models/random_forest_model.pkl")
+scaler = joblib.load("models/scaler.pkl")
+label_encoder = joblib.load("models/label_encoder.pkl") 
 
 app = Flask(__name__)
 
