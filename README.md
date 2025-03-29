@@ -1,6 +1,7 @@
 # TradeSmart: Stock Market trends & predictions
-This is a stock market analysis and prediction project that leverages historical stock price data for Apple, Microsoft, Netflix, and Google. It includes machine learning models for predicting stock prices and a deployed Flask API for real-time predictions.                                    
-**[Analysis Overview (html file)] (https://febisarju.github.io/TradeSmart)**
+This is a stock market analysis and prediction project that leverages historical stock price data for Apple, Microsoft, Netflix, and Google. It includes machine learning models for predicting stock prices and a deployed Flask API for real-time predictions.       
+                     
+**[Analysis Overview (html file)](https://febisarju.github.io/TradeSmart)**
                          
 ## Features:
   
