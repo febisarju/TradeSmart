@@ -1,6 +1,6 @@
 # TradeSmart: Stock Market trends & predictions
-This project analyzes and predicts stock market trends using historical stock price data for Apple, Microsoft, Netflix and Google.
-
+This project analyzes and predicts stock market trends using historical stock price data for Apple, Microsoft, Netflix and Google.   
+Analysis Overview - https://febisarju.github.io/TradeSmart/
 ## Features:
   
 - Identify trends and patterns in stock prices.
