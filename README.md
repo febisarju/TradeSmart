@@ -58,10 +58,10 @@ Models are evaluated using Mean Squared Error (MSE) and R² Score.
 
 ## Running the Flask API:
 
-1. Run the API    
+1. Run the API-        
 python app.py
 
-2. Test in Postman   
+2. Test in Postman-       
 Send a POST request to http://127.0.0.1:5000/predict with JSON input:       
 ![Screenshot 2025-03-29 215803](https://github.com/user-attachments/assets/8dde808e-8d51-4a0d-a4b1-b8a03df32fb6)
 
