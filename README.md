@@ -69,4 +69,5 @@ Send a POST request to http://127.0.0.1:5000/predict with JSON input:
 
 ## Contact:
 
-- Github- https://github.com/febisarju
+For any questions or collaboration, feel free to reach out!                                 
+Github- https://github.com/febisarju
