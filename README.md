@@ -65,9 +65,9 @@ python app.py
          
 3. Test in Postman-       
 Send a POST request to http://127.0.0.1:5000/predict with JSON input:       
-![Screenshot 2025-03-29 215803](https://github.com/user-attachments/assets/8dde808e-8d51-4a0d-a4b1-b8a03df32fb6)
+<img src="https://github.com/febisarju/TradeSmart/blob/main/results/postman_post.png" alt="image" width="300" height="200">
 
-## Contact:
+## Contact:   
 
 For any questions or collaboration, feel free to reach out!                                 
 Github- https://github.com/febisarju
