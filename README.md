@@ -61,7 +61,7 @@ Models are evaluated using Mean Squared Error (MSE) and R² Score.
 
 1. Run the API-        
 python app.py
-<img src="image.png" alt="![Screenshot 2025-03-29 215028](https://github.com/user-attachments/assets/49944666-6e59-4b5e-9aee-b9e4cc66c06d)" width="300" height="200">
+<img src="image.png" alt="https://github.com/user-attachments/assets/49944666-6e59-4b5e-9aee-b9e4cc66c06d" width="300" height="200">
          
 3. Test in Postman-       
 Send a POST request to http://127.0.0.1:5000/predict with JSON input:       
