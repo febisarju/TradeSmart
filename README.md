@@ -61,11 +61,11 @@ Models are evaluated using Mean Squared Error (MSE) and R² Score.
 
 1. Run the API-        
 python app.py
-"https://github.com/febisarju/TradeSmart/blob/main/results/flaskapi.png"
+https://github.com/febisarju/TradeSmart/blob/main/results/flaskapi.png
          
 3. Test in Postman-       
 Send a POST request to http://127.0.0.1:5000/predict with JSON input:       
-"https://github.com/febisarju/TradeSmart/blob/main/results/postman_post.png"
+https://github.com/febisarju/TradeSmart/blob/main/results/postman_post.png
 
 ## Contact:   
 
