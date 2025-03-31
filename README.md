@@ -27,46 +27,6 @@ The dataset contains historical stock price data, including:
 - Open, High, Low, Close, Adj Close Prices
 - Volume
 
-## Workflow:
-
-1️. Data Collection
-- Load historical stock data.
-- Clean and preprocess the dataset.
-  
-2️. Exploratory Data Analysis (EDA)
-- Visualizations using Matplotlib & Seaborn.
-- Correlation Matrix to find relationships.
-- Moving Averages & Volatility analysis.
-  
-3️. Feature Engineering
-- Compute 10-day and 20-day moving averages.
-- Calculate stock price volatility.
-- Encode Ticker as Ticker_Encoded for ML models.
-
-4️. Machine Learning Models
-- Random Forest Regressor 
-- Linear Regression 
-- Decision Tree Regressor               
-Models are evaluated using Mean Squared Error (MSE) and R² Score.
-
-5️. Hyperparameter Tuning & Cross-Validation
-- Optimize Random Forest using GridSearchCV.
-- Use 5-fold Cross-Validation for better performance.
-
-6️. Model Deployment (Flask API)
-- Develop a Flask API (app.py) to serve predictions.
-- Accepts stock features as input and returns the predicted stock price.(API Inputs: Open, High, Low, Volume, 10_MA, 20_MA, Volatility, Ticker and API Output: Predicted stock price.)
-
-## Running the Flask API:
-
-1. Run the API-        
-python app.py
-<img src="https://github.com/febisarju/TradeSmart/blob/main/results/flaskapi.png" alt="image" width="300" height="200">
-         
-3. Test in Postman-       
-Send a POST request to http://127.0.0.1:5000/predict with JSON input:       
-<img src="https://github.com/febisarju/TradeSmart/blob/main/results/postman_post.png" alt="image" width="300" height="200">
-
 ## Contact:   
 
 For any questions or collaboration, feel free to reach out!                                 
