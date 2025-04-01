@@ -6,4 +6,5 @@ joblib
 scikit-learn
 matplotlib
 seaboen
+streamlit
 yfinance
