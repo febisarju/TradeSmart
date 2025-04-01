@@ -5,6 +5,6 @@ pandas
 joblib
 scikit-learn
 matplotlib
-seaboen
+seaborn
 streamlit
 yfinance
