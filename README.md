@@ -3,7 +3,7 @@ This is a stock market analysis and prediction project that leverages historical
                      
 **[Analysis Overview (html file)](https://febisarju.github.io/TradeSmart)**
 
--Also, a streamlit app created for stock analysis and prediction using yfinance stock live data.
+-Also, a streamlit app created for stock analysis and prediction using yfinance stock live data: **[click here](https://tradesmart.streamlit.app/)**
 
 ## Features:
    
