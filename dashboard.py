@@ -9,9 +9,9 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 # Load trained model and preprocessors
 try:
-    rf_model = joblib.load("random_forest_model.pkl")
-    scaler = joblib.load("scaler.pkl")
-    label_encoder = joblib.load("label_encoder.pkl")
+    rf_model = joblib.load("models/random_forest_model.pkl")
+    scaler = joblib.load("models/scaler.pkl")
+    label_encoder = joblib.load("models/label_encoder.pkl")
 except FileNotFoundError:
     rf_model, scaler, label_encoder = None, None, None
 
