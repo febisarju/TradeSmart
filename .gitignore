@@ -1,0 +1,47 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Ignore virtual environment
+venv/
+.env/
+*.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+logs/
+tmp/
+*.tmp
+
+# Ignore Streamlit deployment files
+.streamlit/
+
+# Ignore model files (if not meant for GitHub)
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# Ignore datasets (if large)
+data/
+*.csv
+*.json
+*.xlsx
+
+# Ignore dependencies if using `requirements.txt`
+Pipfile
+Pipfile.lock
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
