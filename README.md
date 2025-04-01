@@ -2,7 +2,9 @@
 This is a stock market analysis and prediction project that leverages historical stock price data for Apple, Microsoft, Netflix, and Google. It includes machine learning models for predicting stock prices and a deployed Flask API for real-time predictions.       
                      
 **[Analysis Overview (html file)](https://febisarju.github.io/TradeSmart)**
-                         
+
+-Also, a streamlit app created fo stock analysis and prediction using yfinance data.
+
 ## Features:
    
 - Identify trends and patterns in stock prices.
