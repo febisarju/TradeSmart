@@ -60,12 +60,10 @@ Models are evaluated using Mean Squared Error (MSE) and R² Score.
 ## Running the Flask API:
 
 1. Run the API-        
-python app.py
-<img src="https://github.com/febisarju/TradeSmart/blob/main/results/flaskapi.png" alt="image" width="300" height="200">
+[python app.py](https://github.com/febisarju/TradeSmart/blob/main/results/flaskapi.png)
          
 3. Test in Postman-       
-Send a POST request to http://127.0.0.1:5000/predict with JSON input:       
-<img src="https://github.com/febisarju/TradeSmart/blob/main/results/postman_post.png" alt="image" width="300" height="200">
+Send a POST request to http://127.0.0.1:5000/predict with JSON input: [output](https://github.com/febisarju/TradeSmart/blob/main/results/postman_post.png)
 
 ## Contact:   
 
