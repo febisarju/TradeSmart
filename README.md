@@ -67,6 +67,10 @@ Models are evaluated using Mean Squared Error (MSE) and R² Score.
 3. Test in Postman-       
 Send a POST request to http://127.0.0.1:5000/predict with JSON input: [output](https://github.com/febisarju/TradeSmart/blob/main/results/postman_post.png)
 
+## Streamlit-
+![Screenshot 2025-04-01 203657](https://github.com/user-attachments/assets/9f947075-31c1-4a84-831f-bbb5eac237c2)
+
+
 ## Contact:   
 
 For any questions or collaboration, feel free to reach out!                                 
